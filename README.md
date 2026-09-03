@@ -36,7 +36,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/md-mahbub-alam-masum-4b29ab248/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mahbubmasum2019@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mahbubmasum2019@gmail.com/)
 
 ---
 
