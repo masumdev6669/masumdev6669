@@ -8,9 +8,9 @@
 ## 👨💻 About Me  
 I am a passionate web developer interested in building modern and user-friendly web applications.
 
-🌴 Currently learning Full-Stack Development
-🧠 Improving my problem-solving and programming skills
-🚀 Exploring frontend and backend technologies
+🌴 Currently learning Full-Stack Development\
+🧠 Improving my problem-solving and programming skills\
+🚀 Exploring frontend and backend technologies\
 
 
 ---
@@ -43,12 +43,7 @@ I am a passionate web developer interested in building modern and user-friendly 
 
 ---
 
-## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
 
----
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
