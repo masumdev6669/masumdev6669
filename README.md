@@ -1,17 +1,21 @@
 ![image alt](https://github.com/masumdev6669/masumdev6669/blob/3b33a0b3afeed380a3ef88da1f68e831d1d6c851/purple%20and%20white%20Line%20Modern%20Medical%20Care%20Banner%20landscape%20(1).png)
 
 # Hi 👋, I'm MD.Mahbub Alam Masum
-### 🔭 I build things with JavaScript, React, and Node.js
+### 🔭 Learning Full Stack Development
 
 ---
 
 ## 👨💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+I am a passionate web developer interested in building modern and user-friendly web applications.
+
+🌴 Currently learning Full-Stack Development
+🧠 Improving my problem-solving and programming skills
+🚀 Exploring frontend and backend technologies
+
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Currently Learning  
 
 ### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -28,7 +32,6 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
